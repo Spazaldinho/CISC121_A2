@@ -1,7 +1,7 @@
 """CISC-121 2022F
 Name: Zain Parihar
-Student Number: 10219553
-Email: 21zp16@queensu.ca
+Student Number: 
+Email: 
 Date: 2022-10-05
 I confirm that this assignment solution is my own work and
 conforms to Queen's standards of Academic Integrity
